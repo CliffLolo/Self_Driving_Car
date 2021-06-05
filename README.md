@@ -6,6 +6,6 @@ This project is about to build a self-driving car from scratch, on a 2D map, usi
 
 ## Feedback
 
-If you have any feedback, please reach out to us at cliffordfrimpong@gmail.com
+If you have any feedback, please reach out to me at cliffordfrimpong@gmail.com
 
   
