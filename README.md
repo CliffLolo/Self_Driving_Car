@@ -1,7 +1,7 @@
 
 # Self Driving Car
 
-This project is about to build a self-driving car from scratch, on a 2D map, using the powerful Deep Q-Learning model.
+This project is about how to build a self-driving car from scratch, on a 2D map, using the powerful Deep Q-Learning model.
 
 
 ## Feedback
